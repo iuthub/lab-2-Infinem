@@ -1,0 +1,43 @@
+.div1{
+	border: solid white 10px;
+	background-color: white;
+	height: 565px;
+}
+.div2{
+	background-color: #A8F0F0;
+    text-align: right;
+}
+.div3{
+	font-size: 10pt;
+}
+.div4{
+	position: relative;
+	left: 180px;
+	bottom: 140px;
+	border: solid #C2E9E9 4px;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	height: 220px;
+	width: 1010px;
+}
+.div5{
+	border-bottom: dashed #009097 2px;
+	width: 130px;
+}
+.div6{
+	position: relative;
+	top: 6px;
+	background-color: #A8F0F0;
+	width: 150px;
+	padding: 5px;
+	border: solid #009097 4px;
+}
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(images/background.gif);
+}
+.img{
+	float: right;
+}
